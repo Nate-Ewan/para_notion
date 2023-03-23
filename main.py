@@ -34,18 +34,3 @@ for area in areas:
                 curr_state[area_title][project_title].append(task_title)
             except Exception:
                 continue
-
-
-def create_area_db(parent_id: str):
-    properties = {
-        "Name": {"title": {}},  # This is a required property
-        "Description": {"rich_text": {}},
-    }
-    title = [{"type": "text", "text": {"content": "Areas"}}]
-    parent = {"type": "page_id", "page_id": parent_id}
-
-    return notion.databases.create(parent=parent, title=title, properties=properties)
-
-
-def create_projects_db(area_db_id: str):
-    pass
