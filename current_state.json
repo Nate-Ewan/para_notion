@@ -1,0 +1,143 @@
+{
+    "Career": {
+        "Improve Engineering Skills": [
+            "Chapter 1 Cosmic Python",
+            "Learn a new Language",
+            "Start on Cosmic Design book",
+            "Research a front-end book",
+            "Chapter 2: Cosmic Python",
+            "Setup engineering environment",
+            "Review the \u2018Refactor your wetware\u2019 book",
+            "Come up with side project ideas",
+            "Chapter 4: Cosmic Python"
+        ],
+        "Unemployment Benefits": [
+            "Benefits call",
+            "Check on benefits website",
+            "Grab mail from PO Box"
+        ],
+        "Find a job": [
+            "Follow up on Baton call",
+            "Prepare for Zipline call",
+            "LinkedIn Post",
+            "Follow up with Replica",
+            "Resume Review",
+            "Reach out to Network",
+            "Review Ryan\u2019s Companies",
+            "Call w/ Baton",
+            "Follow up With Recruiter Ryan",
+            "Follow up with Baton",
+            "Follow up with Charlie Health",
+            "Follow up w/ Joels recs",
+            "Charlie Health Call",
+            "Environment Job Board",
+            "Reply to Baton",
+            "Find some companies",
+            "Reach out to companies in list / Filter",
+            "Create a hackajob profile",
+            "Follow up w/ Lockeed"
+        ],
+        "Para API": [
+            "Get Initial business cases laid out",
+            "Create a design doc"
+        ],
+        "Notion + GPT": [],
+        "Lockheed Martin Prep": [
+            "Pick A Resource to start with",
+            "Intro/Get-Started for learncpp"
+        ],
+        "Learn Javascript": [
+            "Learn the basics"
+        ]
+    },
+    "Burning Man": {
+        "Love Burn: Miami": [
+            "Pay Jimi for the tickets",
+            "Fill out Loveburn questionare"
+        ],
+        "Smoothie total costs": []
+    },
+    "Finances": {
+        "Start looking into investments": [
+            "What ",
+            "Buy some bonds"
+        ],
+        "Unemployment": [
+            "Update Cal Jobs / find requirements",
+            "Register for CalJOBS"
+        ],
+        "Shore up Finances": [
+            "Sync Finances w/ Kaylynn",
+            "Total up different costs",
+            "Find all reoccurring costs and subscriptions"
+        ]
+    },
+    "Skiing": {
+        "Ski Prep": [
+            "Look over gear, setup gear list",
+            "Get skis tuned up"
+        ],
+        "First Ski Trip": []
+    },
+    "Video games": {},
+    "Family": {
+        "Christmas gifts": [
+            "Cards for Mom/Dad/Joel/Family",
+            "Beeeees for Kaylynn?",
+            "Generate gift ideas for the crawfords",
+            "Write cards for the Crawfords"
+        ]
+    },
+    "Productivity": {},
+    "Aerial": {
+        "Photoshoot ": [
+            "Find / Practice poses",
+            "Reply to email about vision",
+            "Gather inspiration photos",
+            "Think out vision"
+        ]
+    },
+    "Health": {
+        "170 lbs": [
+            "Intermittent fasting",
+            "Timer for meals, 20 minutes",
+            "Mindful eating",
+            "Full day fast"
+        ],
+        "Insurance": [
+            "Follow up with Insurance, remove cobra",
+            "Cobra Insurance",
+            "Decide on insurance"
+        ],
+        "Dental Care": [
+            "Contact Orthodontist for appointment",
+            "Contact Dentist for appointment"
+        ],
+        "Vision Quest": [
+            "Research initial vision quest"
+        ],
+        "Mindfulness": []
+    },
+    "Cooking": {
+        "Boba Milk Tea": [],
+        "Christmas Dinner": [
+            "Plan out recipe timing"
+        ]
+    },
+    "Vehicle": {
+        "Maintenance": [
+            "Purchase the wiring harness for oil pressure",
+            "How do you fill a windshield crack?"
+        ],
+        "Trailer Hitch": [
+            "Look into what trailer hitches I can use"
+        ],
+        "Front car creaking": []
+    },
+    "Kaylynn": {
+        "Christmas Gift": [
+            "Gather gift ideas"
+        ],
+        "Love Burn": []
+    }
+}
